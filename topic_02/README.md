@@ -1,11 +1,11 @@
 # TP-KB-21-1--Yaroslav-Tymoschenko
 # 2023-11-12
-add folder topic_02
-add two file task1, task2
-add file calculator
+add folfer topic_01
+add solution for task1 task 2 and task3
 
-file calculator edited
+commit all files
+push all files
 
-add file Report
-
-all files completed, commited, pushed
+complete task1, task2, task3
+commit all changes
+push all changes
