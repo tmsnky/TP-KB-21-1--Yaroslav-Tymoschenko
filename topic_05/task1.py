@@ -13,7 +13,7 @@ def play_game(user_choice):
         (user_choice == "scissors" and computer_choice == "paper") or
         (user_choice == "paper" and computer_choice == "rock")
     ):
-        return "You win!"
+        return "You win! Жизнь игра - играй красиво!"
     else:
         return "Computer wins!"
 
