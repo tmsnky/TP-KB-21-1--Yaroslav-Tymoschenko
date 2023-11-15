@@ -18,5 +18,4 @@ c = 2
 
 
 roots = quadratic_roots(a, b, c)
-
 print("Roots:", roots)
