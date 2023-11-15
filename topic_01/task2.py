@@ -7,4 +7,5 @@ def string_operations(input_string):
     print("Lower:", input_string.lower())
 
 sample_string = "   hello, world!   "
+
 string_operations(sample_string)
