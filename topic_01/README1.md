@@ -8,5 +8,4 @@ push all files
 
 complete task1, task2, task3
 commit all changes
-
 push all changes
