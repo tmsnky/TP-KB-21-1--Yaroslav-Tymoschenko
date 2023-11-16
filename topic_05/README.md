@@ -1,8 +1,8 @@
 # TP-KB-21-1--Yaroslav-Tymoschenko
 # 2023-11-12
 
-Add folder topic_06
+Add folder topic_05
 
-add file to folder calculator.py, functions.py, operations.py, README.md, TP-KB-21-1--Yaroslav-Tymoschenko.docx
+add file to folder task1.py, task2.py, README.md, TP-KB-21-1--Yaroslav-Tymoschenko.docx
 
-Complete all three files
+Complete task1.py , task2.py
