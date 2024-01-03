@@ -1,9 +1,9 @@
 # Initial sorted list
 list = [
-    {"name": "Bob", "phone": "0631234567", 'email': 'Bob06@gmail.com', 'group': 'KB221'},
+    {"name": "Bob", "phone": "0631234567", 'email': 'Bob@gmail.com', 'group': 'KB221'},
     {"name": "Emma", "phone": "0631234567", 'email': 'Emma@gmail.com', 'group': 'KB222'},
-    {"name": "Jon", "phone": "0631234567", 'email': 'jonwatson@gmail.com', 'group': 'AM211'},
-    {"name": "Zak", "phone": "0631234567", 'email': 'isaak@gmail.com', 'group': 'KI105'}
+    {"name": "Jon", "phone": "0631234567", 'email': 'jonweek@gmail.com', 'group': 'AM211'},
+    {"name": "Zak", "phone": "0631234567", 'email': 'izak@gmail.com', 'group': 'KI105'}
 ]
 
 def printAllList():
